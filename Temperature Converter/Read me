@@ -1,0 +1,12 @@
+In this folder I have one HTML file, one CSS file and one JS file
+
+HTML File -> It include all the structute of the page.
+             one div with wrapper class and inside that div two another div with input-box
+             class and inside it one h6 and input field and between that two div i added one
+             right-left arrow from font awesome and its css link is attached in the head section.
+
+CSS File -> All the styling is done in the CSS File and link for CSS file is attached
+            in the HTML file head section.
+
+JS File -> All the functionality is done in JS file and the link of JS File is attached
+            in the body section, before closing the body tag.
